@@ -200,7 +200,7 @@ int main()
     sumFile << setprecision(precision) << binTicks[i] << endl;
   }
   // keeps track of the number of values that fit within a certain bin
-  cout << endl;
+  cout << endl; 
 
   sumFile << endl << "TICK RANGE PER BIN: " << endl;
 
